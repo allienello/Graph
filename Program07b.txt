@@ -1,0 +1,14 @@
+Mark Frank 5
+Mark Susan 6
+Frank Kathy 3
+Susan Kathy 2
+Kathy Ann 37
+Kathy Carlos 35
+Kathy Richard 13
+Ann David 26
+Carlos David 24
+Carlos John 39
+Richard Susan 10
+David Kathy 12
+David Frank 8
+John Richard 17
