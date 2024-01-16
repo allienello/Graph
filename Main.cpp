@@ -1,6 +1,5 @@
 /***********************************
  * Program 07
- * Written by Mark M Bowman
  ***********************************/ 
 
 #include <iostream>
